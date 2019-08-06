@@ -8,7 +8,6 @@ public class Book {
 	private Integer price;
 	
 	public Book(String title, String author, String publisher, Integer price) {
-		super();
 		this.title = title;
 		this.author = author;
 		this.publisher = publisher;
