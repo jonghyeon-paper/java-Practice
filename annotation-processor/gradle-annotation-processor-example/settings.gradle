@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-annotation-processor-example'
+include 'annotation-processor'
+include 'annotation-sample'
