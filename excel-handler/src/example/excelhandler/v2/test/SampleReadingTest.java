@@ -10,7 +10,7 @@ import example.excelhandler.v2.ReadingProperty;
 
 public class SampleReadingTest {
 
-    private static final String filePath = "C:\\development-202301\\eclipse-workspace-personal\\excel-handler\\temp\\sample2.xlsx";
+    private static final String filePath = "C:\\development-202301\\eclipse-workspace-personal\\java-practice\\excel-handler\\temp\\sample2.xlsx";
 
     public static void main(String[] args) throws FileNotFoundException {
 
